@@ -1,2 +1,2 @@
 # Ecommerce
-Hello World "Welcome To Coding"
+Hello World "Pushing from Terminal"
